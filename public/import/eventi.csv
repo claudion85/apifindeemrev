@@ -1,0 +1,660 @@
+Area;Tag Argomento
+Cinema;Azione
+Cinema;Drammatici
+Cinema;Commedia
+Cinema;Animazione
+Cinema;Horror
+Cinema;Thriller
+Cinema;Biografici
+Cinema;Fantascienza
+Cinema;Avventura
+Cinema;Fantastici
+Cinema;Opera Drammatica
+Cinema;Balletto
+Cinema;Documentari
+Cinema;Fantasy
+Cinema;Commedie Nere
+Cinema;Musical
+Cinema;Western
+Cinema;Warner Bros Italia
+Cinema;20th Century Fox
+Cinema;Universal Pictures
+Cinema;Nexo Digital
+Cinema;01 Distribution
+Cinema;Walt Disney
+Cinema;Adler Entertainment
+Cinema;Eagle Pictures
+Cinema;Lucky Red
+Cinema;Medusa
+Cinema;Leone Film Group
+Cinema;Notorious Pictures
+Cinema;Vision Distribution
+Cinema;I Wonder Pictures
+Cinema;Koch Media
+Cinema;M2 Pictures
+Cinema;Sun Film Group
+Cinema;Videa - CDE
+Cinema;Usa
+Cinema;Italia
+Cinema;Gran Bretagna
+Cinema;Francia
+Cinema;Belgio
+Cinema;Spagna
+Cinema;Australia
+Cinema;Canada
+Cinema;Germania
+Cinema;Giappone
+Cinema;Brasile
+Cinema;Romania
+Cinema;Lussemburgo
+Cinema;Grecia
+Cinema;Russia
+Cinema;Danimarca
+Cinema;Colombia
+Cinema;Paesi Bassi
+Cinema;Corea Del Sud
+Cinema;Tailandia
+Corsi;Corso
+Corsi;Incontro
+Corsi;Arte
+Corsi;Hobby
+Corsi;Moda
+Benessere;Spa
+Benessere;Centri benessere
+Benessere;Terme
+Benessere;Centri estetici
+Benessere;percorsi
+Benessere;Musicoterapia
+Benessere;Meditazione
+Benessere;Smettere di fumare
+Benessere;No stress
+Benessere;Alimentazione
+Benessere;Salute digitale
+Benessere;Tempo libero
+Benessere;Yoga
+Benessere;Massaggi
+Benessere;Detox
+Benessere;Maschere viso
+Benessere;Frullati
+Benessere;Cura dei capelli
+Benessere;Sistema immunitario
+Benessere;Dieta
+Onlus;Associazione
+Onlus;Fondazione
+Onlus;Comitato
+Onlus;Cooperativa
+Onlus;Cooperativa sociale
+Onlus;Consorzi
+Onlus;Enti ecclesiastici
+Onlus;Assistenza sociale
+Onlus;Socio sanitaria
+Onlus;Assistenza sanitaria
+Onlus;Beneficenza
+Onlus;Istruzione
+Onlus;Formazione
+Onlus;Sport dilettantistico
+Onlus;Valorizzazione
+Onlus;Arte
+Onlus;Beni culturali
+Onlus;Tutela dell'ambiente
+Onlus;Cultura
+Onlus;Tutela dei diritti civili
+Onlus;Ricerca scientifica
+Onlus;Cinque per mille
+Onlus;Solidarietà
+Onlus;Volontariato
+Onlus;Non profit
+Onlus;Donazioni
+Animali domestici;Animali domestici
+Animali domestici;Fiere
+Animali domestici;Mostre animali
+Animali domestici;Fattoria
+Animali domestici;Abbigliamento
+Animali domestici;Cura della salute
+Animali domestici;Giocattoli
+Animali domestici;Tempo libero
+Animali domestici;Sport
+Animali domestici;Ozio
+Animali domestici;Giardinaggio
+Animali domestici;Educazione
+Animali domestici;Ospedale
+Animali domestici;Bellezza
+Animali domestici;Criceti
+Animali domestici;Porcellini d'India
+Animali domestici;Topi
+Animali domestici;Mammiferi
+Animali domestici;Cani
+Animali domestici;Gatti
+Animali domestici;Roditori
+Animali domestici;Conigli
+Animali domestici;Cavalli
+Animali domestici;Asini
+Animali domestici;Donnole
+Animali domestici;Furetti
+Animali domestici;Alpaca
+Animali domestici;Maialini
+Animali domestici;Scimmie
+Animali domestici;Mucca
+Animali domestici;Capre nane
+Animali domestici;Uccelli
+Animali domestici;Cocorite
+Animali domestici;Cacatua
+Animali domestici;Ara
+Animali domestici;Pappagalli
+Animali domestici;Canarini
+Animali domestici;Colombe
+Animali domestici;Galline
+Animali domestici;Anatre
+Animali domestici;Rettili
+Animali domestici;Lucertole
+Animali domestici;Iguane
+Animali domestici;Serpenti
+Animali domestici;Tartarughe
+Animali domestici;Alligatori
+Animali domestici;Camaleonti
+Animali domestici;Anfibi
+Animali domestici;Tritone
+Animali domestici;Salamandre
+Animali domestici;Pesci
+Animali domestici;Acquari
+Animali domestici;Ragni
+Animali domestici;Formiche
+Animali domestici;Grilli
+Animali domestici;Tarantole
+Animali domestici;Scorpioni
+Animali domestici;Insetti
+Animali domestici;Caimani
+Animali domestici;Coccodrilli
+Libri;Prosa
+Libri;Narrativa
+Libri;Romanzo
+Libri;Storico
+Libri;Fantascienza
+Libri;Fantapolitica
+Libri;Fantasy
+Libri;Gotico
+Libri;Romanzo
+Libri;Giallo
+Libri;Rosa
+Libri;Erotico
+Libri;Psicologico
+Libri;Umoristico
+Libri;Sociale
+Libri;Epistolare
+Libri;Racconto
+Libri;Fiaba
+Libri;Storiografia
+Libri;Favola
+Libri;Biografia
+Libri;Diario
+Libri;Dialogo
+Libri;Trattato
+Libri;Saggio
+Libri;Opuscolo
+Libri;Eloquenza
+Libri;Aforisma
+Libri;Apologia
+Libri;Parabola
+Libri;Manifesto
+Libri;Emblematica
+Libri;Poesia
+Libri;Epica
+Libri;Didascalica
+Libri;Lirica
+Libri;Preghiera
+Libri;Lauda
+Libri;Poesia bucolica
+Libri;Satira
+Libri;Sonetto
+Libri;Canzone
+Libri;Capitolo
+Libri;Carme
+Libri;Ode
+Libri;Madrigale
+Libri;Ballata
+Libri;Poemetto lirico
+Libri;Centone
+Libri;Verso libero
+Libri;Calligramma
+Libri;Teatro
+Libri;Teatro di prosa
+Libri;Tragedia
+Libri;Commedia
+Libri;Mimo prosastico
+Libri;Teatro di musica
+Libri;Opera
+Libri;Opera seria
+Libri;Opera buffa
+Libri;Operetta
+Libri;Farsa
+Libri;Mimo lirico
+Libri;Mimiambo
+Libri;Ilarodia
+Libri;Magodia
+Libri;Musical
+Artisti di strada;Mimo
+Artisti di strada;Trampoli
+Artisti di strada;Giocoleria
+Artisti di strada;Graffiti writer‎
+Artisti di strada;Musicisti di strada‎
+Artisti di strada;Artista di strada
+Artisti di strada;Statua vivente
+Artisti di strada;Teatro di strada
+Artisti di strada;Festival e mostre
+Artisti di strada;Acrobati
+Artisti di strada;Giocolieri
+Artisti di strada;Equilibristi
+Artisti di strada;Contorsionisti
+Artisti di strada;Cantastorie
+Artisti di strada;Attori di strada
+Artisti di strada;Clowns
+Artisti di strada;Statue viventi
+Artisti di strada;Mimi
+Artisti di strada;Fachiri
+Artisti di strada;Mangiafuoco
+Artisti di strada;Burattinai
+Artisti di strada;Danzatori
+Artisti di strada;Musicisti
+Artisti di strada;Onemanband
+Artisti di strada;Street-band
+Artisti di strada;Madonnari
+Artisti di strada;Dream painters
+Spiritualità;Conoscenza
+Spiritualità;Meditazione
+Spiritualità;Ragione
+Spiritualità;Religione
+Spiritualità;Saggezza
+Spiritualità;Pluralismo religioso
+Spiritualità;Sarvadharma
+Spiritualità;Ascesi
+Spiritualità;Misticismo
+Spiritualità;Cristianesimo
+Spiritualità;Orario messe
+Spiritualità;Chiese
+Spiritualità;Teologia
+Spiritualità;Felicità
+Spiritualità;Mistica
+Spiritualità;Morte
+Spiritualità;Occulto
+Spiritualità;Filosofia
+Spiritualità;Peccato
+Spiritualità;Psicologia
+Spiritualità;Salute
+Spiritualità;Morale
+Spiritualità;Metafisica
+Spiritualità;Storia
+Spiritualità;Spiritualismo
+Spiritualità;Ateismo
+Spiritualità;Scienza
+Spiritualità;Creatività
+Spiritualità;Futuro
+Spiritualità;Ebraismo
+Spiritualità;Comportamento
+Spiritualità;Libertà
+Spiritualità;Musica
+Spiritualità;Poesia
+Spiritualità;Animismo 
+Spiritualità;Bahai 
+Spiritualità;Bantu 
+Spiritualità;Buddhismo 
+Spiritualità;Bwiti 
+Spiritualità;Candomblé 
+Spiritualità;Caodaismo 
+Spiritualità;Ceondoismo 
+Spiritualità;Confucianesimo 
+Spiritualità;Cristianesimo 
+Spiritualità;Culti aborigeni australiani
+Spiritualità;Culti malgasci 
+Spiritualità;Culto degli antenati
+Spiritualità;Danza degli spiriti 
+Spiritualità;Dievturiba 
+Spiritualità;Dongba 
+Spiritualità;Drusismo
+Spiritualità;Ebraismo 
+Spiritualità;Eckankar
+Spiritualità;Giainismo 
+Spiritualità;Hetanesimo
+Spiritualità;Ikuantao 
+Spiritualità;Induismo 
+Spiritualità;Inuit 
+Spiritualità;Islam
+Spiritualità;Juju
+Spiritualità;Mandeismo 
+Spiritualità;Manicheismo
+Spiritualità;Manituismo 
+Spiritualità;Marla 
+Spiritualità;Masai 
+Spiritualità;Maya
+Spiritualità;Midewiwin 
+Spiritualità;Mitologia hawaiana 
+Spiritualità;New Age 
+Spiritualità;Obeah 
+Spiritualità;Odinani 
+Spiritualità;Palo 
+Spiritualità;Pastafarianesimo 
+Spiritualità;Peyotismo 
+Spiritualità;Raelismo
+Spiritualità;Rastafarianesimo
+Spiritualità;Religione delle Ryūkyū
+Spiritualità;Religione popolare cinese
+Spiritualità;Romuva 
+Spiritualità;Samaritanesimo 
+Spiritualità;Sami 
+Spiritualità;Santeria
+Spiritualità;Satanismo 
+Spiritualità;Sciamanesimo coreano
+Spiritualità;Sciamanesimo 
+Spiritualità;Scientology 
+Spiritualità;Shintoismo 
+Spiritualità;Sikhismo
+Spiritualità;Taoismo 
+Spiritualità;Tengrismo 
+Spiritualità;Tenrikyo 
+Spiritualità;Thelema 
+Spiritualità;Totemismo 
+Spiritualità;Unitariani universalisti 
+Spiritualità;Via romana agli dei 
+Spiritualità;Vudù 
+Spiritualità;Wicca 
+Spiritualità;Yazdanesimo 
+Spiritualità;Yoruba 
+Spiritualità;Zoroastrismo 
+Business;Energia e servizi
+Business;Finanza
+Business;Pubblica Amministrazione
+Business;Sanità
+Business;Manifatturiero
+Business;Beni di consumo
+Business;Telecomunicazioni
+Business;Immobiliare
+Business;Congressi
+Business;Formazione
+Business;Conferenze
+Business;Workshop
+Business;Informatica
+Business;Sicurezza
+Business;Lavoro
+Business;Legale
+Business;Normative
+Business;Farmaceutico
+Business;Banche
+Business;Assicurazioni
+Business;Procurement & Supply Chain
+Business;Marketing
+Business;Comunicazione
+Business;Networking
+Business;Innovazione
+Business;Infrastrutture
+Business;Tecnologie
+Musica;Concerti
+Musica;Festival
+Musica;Acid jazz
+Musica;Black Metal
+Musica;Chemical Beat
+Musica;Crossover
+Musica;Dark
+Musica;Death Metal
+Musica;Epic Metal
+Musica;Folk
+Musica;Glam Rock
+Musica;Grunge
+Musica;Hard Core
+Musica;Hard House
+Musica;Hip-Hop
+Musica;Jungle
+Musica;Liscio
+Musica;Metal
+Musica;Metalprogressive
+Musica;Rockprogressive
+Musica;Musica classica
+Musica;Musica dance
+Musica;New-Wave
+Musica;Noise
+Musica;Pop italiano
+Musica;Progressive
+Musica;Psichedelia
+Musica;Punk Rock
+Musica;Revival
+Musica;Thrash
+Musica;Underground
+Musica;Pizzica
+Musica;Tammurriata
+Musica;Tarantella calabrese
+Musica;Tarantella siciliana
+Musica;Alternative
+Musica;Ambient
+Musica;Anni '70
+Musica;Anni '80
+Musica;Anni '90
+Musica;Bachata
+Musica;Ballate
+Musica;Blues
+Musica;Bossa nova
+Musica;Chanson francese
+Musica;Chillout
+Musica;Classic rock
+Musica;Classica
+Musica;Country
+Musica;Disco
+Musica;Discofox
+Musica;Drum and bass
+Musica;Dub
+Musica;Easy listening
+Musica;Electro
+Musica;Fado
+Musica;Film e Musical
+Musica;Forró
+Musica;Funky
+Musica;Gospel
+Musica;Hard rock
+Musica;Heavy metal
+Musica;Hip hop
+Musica;Hits
+Musica;House
+Musica;Indie
+Musica;Industrial
+Musica;Jazz
+Musica;Kizomba
+Musica;Latina
+Musica;Medievale
+Musica;Merengue
+Musica;Minimal
+Musica;Motown
+Musica;Musica africana
+Musica;Musica asiatica
+Musica;Musica cristiana
+Musica;Musica gotica
+Musica;Musica islamica
+Musica;Musica orientale
+Musica;Musica popolare tedesca
+Musica;Musica tradizionale
+Musica;Notizie-Talk
+Musica;Oldies
+Musica;Podcast
+Musica;Pop
+Musica;Punk
+Musica;R&B
+Musica;Rap
+Musica;Reggae
+Musica;Reggaeton
+Musica;Rock
+Musica;Rock'n'roll
+Musica;Salsa
+Musica;Samba
+Musica;Schlager
+Musica;Sertanejo
+Musica;Ska
+Musica;Soul
+Musica;Strumentale
+Musica;Swing
+Musica;Techno
+Musica;Trance
+Musica;Urban
+Musica;World music
+Musica;Zouk e Tropicale
+Musica;Altri eventi musicali
+Divertimento;Discoteche
+Divertimento;Bar
+Divertimento;Discobar
+Divertimento;Musica dal vivo
+Divertimento;Happy hour
+Divertimento;Enoteche
+Divertimento;Karaoke
+Fiere;Artigianato
+Fiere;Auto e moto
+Fiere;Biologico
+Fiere;Elettronica
+Fiere;Fotografia
+Fiere;Fumettistica
+Fiere;Ceramica
+Fiere;Mobili e arredamento
+Fiere;Nautica
+Fiere;Videogiochi
+Fiere;Altri eventi fieristici
+Bambini;Mostre
+Bambini;Moda
+Bambini;Spazio giochi
+Bambini;Presentazioni
+Bambini;Teatro
+Sport;Fitness
+Sport;Calcio
+Sport;Automobilismo
+Sport;Motociclismo
+Sport;Tennis
+Sport;Rugby
+Sport;Pugilato
+Sport;Pallavolo
+Sport;Pallacanestro
+Sport;Hockey
+Sport;Pallanuoto
+Sport;Pallamano
+Sport;Lacrosse
+Sport;Ciclismo
+Sport;Baseball
+Sport;Atletica leggera
+Sport;Altri eventi sportivi
+Feste;Mercatini
+Feste;Circo
+Feste;Moda
+Feste;Manifestazioni
+Feste;Sagre
+Feste;Fiere
+Moda;Sfilate
+Moda;Moda maschile
+Moda;Bambini
+Moda;Pet
+Moda;Moda femminile
+Arte;Mostre
+Arte;Mostre d'arte e di storia
+Arte;Musei e siti archeologici
+Arte;Visite guidate
+Teatro;Musical e varietà
+Teatro;Prosa
+Teatro;Teatro lirico
+Teatro;Cabaret
+Teatro;Balletto classico e moderno
+Teatro;Operetta
+Teatro;Concerti di musica classica
+Teatro;Altri eventi teatrali
+Ricorrenze;Capodanno
+Ricorrenze;Saldi Invernali
+Ricorrenze;Epifania
+Ricorrenze;Carnevale
+Ricorrenze;Giorno della Candelora
+Ricorrenze;Giorno del Caffe'
+Ricorrenze;San Valentino
+Ricorrenze;Festa dei Single
+Ricorrenze;Giornata mondiale del Gatto
+Ricorrenze;Festa della Donna
+Ricorrenze;San Patrizio
+Ricorrenze;Festa del Papa'
+Ricorrenze;Primavera
+Ricorrenze;Giornata mondiale della Poesia
+Ricorrenze;Giornata Mondiale della Meteorologia
+Ricorrenze;Giornata Mondiale della Gioventu'
+Ricorrenze;Pasqua
+Ricorrenze;Pesce d'Aprile
+Ricorrenze;Giornata della Coppia
+Ricorrenze;Giornata Mondiale della Salute
+Ricorrenze;Giornata Mondiale della Terra
+Ricorrenze;Giorno delle Casalinghe
+Ricorrenze;Festa del lavoro
+Ricorrenze;Giorno dei fratelli e delle sorelle
+Ricorrenze;Giornata del Sole
+Ricorrenze;Festa della Mamma
+Ricorrenze;Giornata nazionale della Bicicletta
+Ricorrenze;Giornata internazionale della Famiglia
+Ricorrenze;Giornata dell'Africa
+Ricorrenze;Giornata Mondiale senza Tabacco
+Ricorrenze;Giornata mondiale degli Oceani
+Ricorrenze;Estate
+Ricorrenze;Giorno della Segretaria
+Ricorrenze;Saldi Estivi
+Ricorrenze;Giornata dei Baci
+Ricorrenze;Notte Rosa
+Ricorrenze;Giorno della Luna
+Ricorrenze;Giorno degli Automobilisti
+Ricorrenze;Giorno degli Zii
+Ricorrenze;Giornata mondiale dell'Amicizia
+Ricorrenze;Notte delle Stelle cadenti
+Ricorrenze;Ferragosto
+Ricorrenze;Giornata Internazionale della Solidarieta'
+Ricorrenze;Giornata Internazionale della Pace
+Ricorrenze;Festa della Birra
+Ricorrenze;Autunno
+Ricorrenze;Giornata Internazionale della Terza Eta'
+Ricorrenze;Festa dei Nonni
+Ricorrenze;Giorno degli Angeli Custodi
+Ricorrenze;Giornata del sorriso
+Ricorrenze;Giornata Mondiale degli insegnanti
+Ricorrenze;Giorno della Cioccolata
+Ricorrenze;Giorno della Castagna
+Ricorrenze;Halloween
+Ricorrenze;Giornata dei Cani
+Ricorrenze;Giorno della Pizza
+Ricorrenze;Giornata Mondiale della Televisione
+Ricorrenze;Giorno dei Motociclisti
+Ricorrenze;Giornata Internazionale della Montagna
+Ricorrenze;Inverno
+Ricorrenze;Natale
+Ristoranti;Africano
+Ristoranti;Americano
+Ristoranti;Arabo
+Ristoranti;Argentino
+Ristoranti;Bavarese
+Ristoranti;Brasiliano
+Ristoranti;Cinese
+Ristoranti;Cubano
+Ristoranti;Francese
+Ristoranti;Giapponese
+Ristoranti;Greco
+Ristoranti;Indiano
+Ristoranti;Internazionale
+Ristoranti;Italiano
+Ristoranti;Libanese
+Ristoranti;Mediorientale
+Ristoranti;Mediterraneo
+Ristoranti;Messicano
+Ristoranti;Orientale
+Ristoranti;Russo
+Ristoranti;Spagnolo
+Ristoranti;Tex-Mex
+Ristoranti;Thailandese
+Ristoranti;Vietnamita
+Ristoranti;Pizzeria
+Turismo;Europa
+Turismo;Asia
+Turismo;Africa
+Turismo;America
+Turismo;Oceania
+Turismo;Antartide
+Turismo;America del nord
+Turismo;America del sud
+Turismo;Castelli
+Turismo;Escursioni
+Turismo;Intorno a me
+Turismo;Turist info
+Turismo;Viaggi
+Turismo;Natura
+Turismo;Parchi a tema
+Turismo;Città da visitare
